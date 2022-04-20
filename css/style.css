@@ -564,7 +564,8 @@ h2 {
 }
 
 .buttons {
-    padding: 0px 22px;
+    padding: 4px 22px;
+    border-radius: 10px;
 
     color: var(--title-text-color);
     background-color: var(--staff-bdrcolor);
